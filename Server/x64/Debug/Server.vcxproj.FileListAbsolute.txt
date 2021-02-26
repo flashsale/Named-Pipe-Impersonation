@@ -1,0 +1,2 @@
+Z:\TheMalwareZone\Pipes\Server\x64\Debug\Server.exe
+Z:\TheMalwareZone\Pipes\Server\x64\Debug\Server.pdb

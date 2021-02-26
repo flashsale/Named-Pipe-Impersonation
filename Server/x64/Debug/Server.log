@@ -1,0 +1,3 @@
+﻿  Server.cpp
+Z:\TheMalwareZone\Pipes\Server\Server.cpp(11,24): warning C4101: 'isPipeOpen': unreferenced local variable
+  Server.vcxproj -> Z:\TheMalwareZone\Pipes\Server\x64\Debug\Server.exe
